@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 10" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="http://www.garmin.com"><text>Garmin International</text></link>
+<time>2019-05-26T08:06:39Z</time>
+</metadata>
+<rte>
+<name>LaPoutouille</name>
+<rtept lat="46.17384866" lon="5.88207574"><name>pt1</name></rtept>
+<rtept lat="46.17378878" lon="5.88155068"><name>pt2</name></rtept>
+<rtept lat="46.17404540" lon="5.88126549"><name>pt3</name></rtept>
+<rtept lat="46.17552886" lon="5.88136118"><name>pt4</name></rtept>
+<rtept lat="46.17672874" lon="5.88138372"><name>pt5</name></rtept>
+<rtept lat="46.17635859" lon="5.88103065"><name>pt6</name></rtept>
+<rtept lat="46.17588626" lon="5.88028694"><name>pt7</name></rtept>
+<rtept lat="46.17596717" lon="5.87952405"><name>pt8</name></rtept>
+<rtept lat="46.17465942" lon="5.87806815"><name>pt9</name></rtept>
+<rtept lat="46.17358018" lon="5.87723053"><name>pt10</name></rtept>
+<rtept lat="46.17311378" lon="5.87629526"><name>pt11</name></rtept>
+<rtept lat="46.17346171" lon="5.87368428"><name>pt12</name></rtept>
+<rtept lat="46.17286948" lon="5.87189059"><name>pt13</name></rtept>
+<rtept lat="46.17272113" lon="5.86930255"><name>pt14</name></rtept>
+<rtept lat="46.17219607" lon="5.86718409"><name>pt15</name></rtept>
+<rtept lat="46.17040045" lon="5.86547782"><name>pt16</name></rtept>
+<rtept lat="46.17147086" lon="5.86291326"><name>pt17</name></rtept>
+<rtept lat="46.17227024" lon="5.86109928"><name>pt18</name></rtept>
+<rtept lat="46.17304841" lon="5.85996966"><name>pt19</name></rtept>
+<rtept lat="46.17395879" lon="5.86011032"><name>pt20</name></rtept>
+<rtept lat="46.17449894" lon="5.85989807"><name>pt21</name></rtept>
+<rtept lat="46.17549425" lon="5.86037337"><name>pt22</name></rtept>
+<rtept lat="46.17666750" lon="5.86064064"><name>pt23</name></rtept>
+<rtept lat="46.17776005" lon="5.86043637"><name>pt24</name></rtept>
+<rtept lat="46.17862646" lon="5.86076628"><name>pt25</name></rtept>
+<rtept lat="46.17861205" lon="5.86123172"><name>pt26</name></rtept>
+<rtept lat="46.17798988" lon="5.86163075"><name>pt27</name></rtept>
+<rtept lat="46.17805409" lon="5.86201893"><name>pt28</name></rtept>
+<rtept lat="46.17787190" lon="5.86236388"><name>pt29</name></rtept>
+<rtept lat="46.17816724" lon="5.86328813"><name>pt30</name></rtept>
+<rtept lat="46.17924720" lon="5.86226009"><name>pt31</name></rtept>
+<rtept lat="46.17983546" lon="5.86295626"><name>pt32</name></rtept>
+<rtept lat="46.17964902" lon="5.86343811"><name>pt33</name></rtept>
+<rtept lat="46.17986877" lon="5.86372656"><name>pt34</name></rtept>
+<rtept lat="46.18111058" lon="5.86301067"><name>pt35</name></rtept>
+<rtept lat="46.18265875" lon="5.86286312"><name>pt36</name></rtept>
+<rtept lat="46.18293676" lon="5.86373148"><name>pt37</name></rtept>
+<rtept lat="46.18374815" lon="5.86460666"><name>pt38</name></rtept>
+<rtept lat="46.18384649" lon="5.86573786"><name>pt39</name></rtept>
+<rtept lat="46.18449857" lon="5.86621874"><name>pt40</name></rtept>
+<rtept lat="46.18488030" lon="5.86558478"><name>pt41</name></rtept>
+<rtept lat="46.18557856" lon="5.86519064"><name>pt42</name></rtept>
+<rtept lat="46.18715154" lon="5.86608738"><name>pt43</name></rtept>
+<rtept lat="46.18717140" lon="5.86606122"><name>pt44</name></rtept>
+<rtept lat="46.18762226" lon="5.86688590"><name>pt45</name></rtept>
+<rtept lat="46.18803489" lon="5.86894286"><name>pt46</name></rtept>
+<rtept lat="46.18791549" lon="5.87033453"><name>pt47</name></rtept>
+<rtept lat="46.18927196" lon="5.87390656"><name>pt48</name></rtept>
+<rtept lat="46.18937364" lon="5.87676677"><name>pt49</name></rtept>
+<rtept lat="46.19022892" lon="5.87745300"><name>pt50</name></rtept>
+<rtept lat="46.19085767" lon="5.87806977"><name>pt51</name></rtept>
+<rtept lat="46.19177567" lon="5.87796432"><name>pt52</name></rtept>
+<rtept lat="46.19378369" lon="5.87957563"><name>pt53</name></rtept>
+<rtept lat="46.19037242" lon="5.88325201"><name>pt54</name></rtept>
+<rtept lat="46.18994744" lon="5.88404775"><name>pt55</name></rtept>
+<rtept lat="46.18817164" lon="5.88354892"><name>pt56</name></rtept>
+<rtept lat="46.18766470" lon="5.88269304"><name>pt57</name></rtept>
+<rtept lat="46.18458854" lon="5.88172624"><name>pt58</name></rtept>
+<rtept lat="46.18364443" lon="5.88144582"><name>pt59</name></rtept>
+<rtept lat="46.18196797" lon="5.88081638"><name>pt60</name></rtept>
+<rtept lat="46.18106871" lon="5.88031941"><name>pt61</name></rtept>
+<rtept lat="46.18042521" lon="5.87956461"><name>pt62</name></rtept>
+<rtept lat="46.17893523" lon="5.87845347"><name>pt63</name></rtept>
+<rtept lat="46.17721531" lon="5.87738246"><name>pt64</name></rtept>
+<rtept lat="46.17543266" lon="5.87710300"><name>pt65</name></rtept>
+<rtept lat="46.17504207" lon="5.87740701"><name>pt66</name></rtept>
+<rtept lat="46.17409028" lon="5.87737312"><name>pt67</name></rtept>
+<rtept lat="46.17608895" lon="5.87928501"><name>pt68</name></rtept>
+<rtept lat="46.17608071" lon="5.88016232"><name>pt69</name></rtept>
+<rtept lat="46.17685931" lon="5.88147444"><name>pt70</name></rtept>
+<rtept lat="46.17413368" lon="5.88149064"><name>pt71</name></rtept>
+<rtept lat="46.17415552" lon="5.88201325"><name>pt72</name></rtept>
+</rte>
+</gpx>
